@@ -1,10 +1,2 @@
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/BigQuery%20Soccer%20Data%20Ingestion/quicklabgsp848.sh
 
-sudo chmod +x quicklabgsp848.sh
-
-./quicklabgsp848.sh
-
-
-
-JUST PAST THIS CODE TO YOUR TASK
 
